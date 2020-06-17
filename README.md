@@ -3,7 +3,7 @@ We use tens of thousands of slides templates and millions of randomly generated 
 
 Here are some pictures(samples from Folder demo_ocr_data):
 
-![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000000.png)
+![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000430.png)
 
 ![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000001.png)
 
@@ -15,13 +15,13 @@ Here are some pictures(samples from Folder demo_ocr_data):
 
 ![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000005.png)
 
-![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000006.png)
+![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000466.png)
 
 ![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000007.png)
 
 ![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000008.png)
 
-![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000009.png)
+![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_ocr_data/00000464.png)
 
 
 # Wingdings sign data
@@ -35,11 +35,11 @@ Here are some pictures(samples from Folder demo_Wingdings_data):
 
 ![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%23s021%23/00000351.png)
 
-![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%23s031%23/000000247.png)
+![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%23s010%23/00000059.png)
 
-![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%23s032%23/000000151.png)
+![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%23s014%23/00000150.png)
 
-![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%23s037%23/000000269.png)
+![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%E2%98%85/00000158.png)
 
 ![image](https://github.com/aopengai/OCR-dataset/blob/master/demo_Wingdings_data/%23s038%23/00000190.png)
 
